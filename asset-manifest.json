@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/invitation/static/css/main.0cc547fc.css",
-    "main.js": "/invitation/static/js/main.15d393a4.js",
+    "main.css": "/invitation/static/css/main.93b7b1b8.css",
+    "main.js": "/invitation/static/js/main.8519ddea.js",
     "static/media/LINLIBERTINE_R_G.ttf": "/invitation/static/media/LINLIBERTINE_R_G.4387a7ea7a6225e62d9c.ttf",
     "static/media/weeeeeee.png": "/invitation/static/media/weeeeeee.868f140cdac15ab2af4f.png",
     "static/media/ARNOPRO-BOLDITALIC.otf": "/invitation/static/media/ARNOPRO-BOLDITALIC.c6d6faf66f284ff0482e.otf",
@@ -16,11 +16,11 @@
     "static/media/bg.avif": "/invitation/static/media/bg.a4f0284767dc000d1ff0.avif",
     "static/media/cup.svg": "/invitation/static/media/cup.b58ec17788c09e9bb4c1be7207f15e10.svg",
     "index.html": "/invitation/index.html",
-    "main.0cc547fc.css.map": "/invitation/static/css/main.0cc547fc.css.map",
-    "main.15d393a4.js.map": "/invitation/static/js/main.15d393a4.js.map"
+    "main.93b7b1b8.css.map": "/invitation/static/css/main.93b7b1b8.css.map",
+    "main.8519ddea.js.map": "/invitation/static/js/main.8519ddea.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cc547fc.css",
-    "static/js/main.15d393a4.js"
+    "static/css/main.93b7b1b8.css",
+    "static/js/main.8519ddea.js"
   ]
 }
