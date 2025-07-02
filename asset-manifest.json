@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/invitation/static/css/main.558e49b1.css",
-    "main.js": "/invitation/static/js/main.00051e6f.js",
-    "static/media/knijka.jpg": "/invitation/static/media/knijka.1c95d8081beec07af5be.jpg",
+    "main.css": "/invitation/static/css/main.8a03d427.css",
+    "main.js": "/invitation/static/js/main.05e86da7.js",
+    "static/media/bottomPhoto.jpg": "/invitation/static/media/bottomPhoto.1c95d8081beec07af5be.jpg",
     "static/media/LINLIBERTINE_R_G.ttf": "/invitation/static/media/LINLIBERTINE_R_G.4387a7ea7a6225e62d9c.ttf",
     "static/media/weeeeeee.png": "/invitation/static/media/weeeeeee.868f140cdac15ab2af4f.png",
     "static/media/ARNOPRO-BOLDITALIC.otf": "/invitation/static/media/ARNOPRO-BOLDITALIC.c6d6faf66f284ff0482e.otf",
     "static/media/house.png": "/invitation/static/media/house.fe3580f06278fd59963d.png",
     "static/media/trojan.ttf": "/invitation/static/media/trojan.696083832c521f948cf0.ttf",
-    "static/media/adress.png": "/invitation/static/media/adress.7ae60b6560106a23df6f.png",
+    "static/media/locationMap.png": "/invitation/static/media/locationMap.7ae60b6560106a23df6f.png",
     "static/media/CyrillicGoth.ttf": "/invitation/static/media/CyrillicGoth.205a5464967ff4c8aa4d.ttf",
     "static/media/AURIOLC.ttf": "/invitation/static/media/AURIOLC.3ad6d6fda13d059eb45d.ttf",
     "static/media/BANGKOK.ttf": "/invitation/static/media/BANGKOK.da2e213a0e8b815ccd33.ttf",
-    "static/media/11763.ttf": "/invitation/static/media/11763.294b1932c5ca2aa1154b.ttf",
+    "static/media/MainFont.ttf": "/invitation/static/media/MainFont.294b1932c5ca2aa1154b.ttf",
     "static/media/redcup.png": "/invitation/static/media/redcup.506ca34d7165355ef686.png",
     "static/media/bg.avif": "/invitation/static/media/bg.a4f0284767dc000d1ff0.avif",
-    "static/media/cup.svg": "/invitation/static/media/cup.b58ec17788c09e9bb4c1be7207f15e10.svg",
+    "static/media/blackCup.svg": "/invitation/static/media/blackCup.4d47d93a448a51923875fdba54f427c3.svg",
     "index.html": "/invitation/index.html",
-    "main.558e49b1.css.map": "/invitation/static/css/main.558e49b1.css.map",
-    "main.00051e6f.js.map": "/invitation/static/js/main.00051e6f.js.map"
+    "main.8a03d427.css.map": "/invitation/static/css/main.8a03d427.css.map",
+    "main.05e86da7.js.map": "/invitation/static/js/main.05e86da7.js.map"
   },
   "entrypoints": [
-    "static/css/main.558e49b1.css",
-    "static/js/main.00051e6f.js"
+    "static/css/main.8a03d427.css",
+    "static/js/main.05e86da7.js"
   ]
 }
