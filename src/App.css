@@ -5,7 +5,7 @@
 
 @font-face {
 	font-family: "MainFont";
-	src: url("../public/11763.ttf") format("truetype");
+	src: url("../public/MainFont.ttf") format("truetype");
 }
 
 @font-face {
@@ -50,13 +50,14 @@
 body {
 	display: flex;
 	justify-content: center;
+	background: url("../public/bg.avif") no-repeat fixed;
+	background-size: cover;
 }
 
 .App {
 	max-width: 600px;
 	width: 100vw;
 	overflow: hidden;
-	min-height: 500lvh;
 	background-color: #f5f5eb;
 	align-items: center;
 	display: flex;
@@ -146,7 +147,7 @@ tr {
 	width: 100%;
 	padding: 10px;
 	display: flex;
-	justify-content: space-around;
+	justify-content: space-between;
 	font-size: 15px;
 	border-top: 1px solid #000;
 	border-bottom: 1px solid #000;
@@ -292,12 +293,12 @@ img {
 }
 
 .old-magazine-btn {
-	width: 120px;
+	width: 180px;
 	background-color: #d8c9a3;
 	color: #4b3b23;
 	font-size: 16px;
 	font-weight: bold;
-	padding: 10px 20px;
+	padding: 10px 0px;
 	text-transform: uppercase;
 	border: 1px solid #7f6b42;
 	border-radius: 5px;
@@ -373,4 +374,24 @@ img {
 
 .CTRNRR {
 	margin: 20px 0px;
+}
+
+.CTRNRR * {
+	font-weight: 700;
+	font-size: 22px;
+}
+
+.help,
+.txt {
+	font-weight: 700;
+}
+
+.vlasniku {
+	margin-bottom: 10px;
+	font-size: 32px;
+}
+
+#kniga {
+	border-top: 5px solid #300;
+	border-bottom: 5px solid #300;
 }

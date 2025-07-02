@@ -1,5 +1,5 @@
 import house from "./assets/house.png";
-import map from "./assets/adress.png";
+import map from "./assets/locationMap.png";
 
 const Map = () => {
 	const handleScrollToLocation = () => {
@@ -15,7 +15,7 @@ const Map = () => {
 			<div className="ctnr">
 				<div className="txt">Місце розташування кав'ярні:</div>
 				<div className="help">М. Львів</div>
-				<div>О. Кульчицької, 2</div>
+				<div className="help">О. Кульчицької, 2</div>
 
 				<button className="old-magazine-btn" type="button" onClick={handleScrollToLocation}>
 					ДИВИТИСЬ НА МАПІ

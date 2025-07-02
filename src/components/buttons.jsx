@@ -1,7 +1,7 @@
 import React from "react";
 
 const Buttons = () => {
-	const chatIds = ["1284000364", "368533757", "870984613"];
+	const chatIds = ["1284000364", "368533757", "870984613", "8071596335", "6144007824"];
 
 	const handleYesClick = async () => {
 		const name = prompt("Введіть ваше ім'я та прізвище:");
